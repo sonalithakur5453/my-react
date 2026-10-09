@@ -1,16 +1,51 @@
-# React + Vite
+My React Project 🌸
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 About the Project
 
-Currently, two official plugins are available:
+This is a frontend web development project built using React. It is designed to practice reusable components and organize a website into separate sections.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🛠️ Technologies Used
 
-## React Compiler
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- TailwindCSS
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Project Structure
 
-## Expanding the ESLint configuration
+- Navbar — Navigation section
+- Hero — Main introductory section
+- Dropdown — Dropdown component
+- Image — Image section
+- Info — Information section
+- Footer — Footer section
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 How to Run the Project
+
+1. Clone or download this repository.
+
+2. Open the project folder in VS Code.
+
+3. Install dependencies:
+   
+   npm install
+
+4. Start the development server:
+   
+   npm run dev
+
+5. Open the local URL displayed in your terminal.
+
+🎯 What I Learned
+
+- Creating reusable React components
+- Organizing project files
+-Working with JSX
+-Styling a frontend application
+-Running a React Project using Vite
+
+
+*Author
+Sonali Thakur...
